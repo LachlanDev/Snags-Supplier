@@ -1,9 +1,9 @@
-# **Snags Supplier**
-
- Snags Supplier is a Discord BOT that sends random images of Sausages (Snags) to your desired server
-
- <img src="https://i.imgur.com/mIMLYmX.png"/>
- <img src="https://i.imgur.com/Ic2Pkfb.png"/>
+<h1 align="center">
+    <br>
+    <img src="https://images.discordapp.net/avatars/602313830474842115/ebb9f69ded9fbaa5abbd568e50ede220.png?size=512" height="200">
+    <br>
+ <p>Snags Supplier</p>
+<h1>
 
 # **Commands**
 *   !helpsnag - Shows all the commands for the BOT!
