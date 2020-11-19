@@ -10,7 +10,7 @@
 const Discord = require("discord.js");
 const Client = new Discord.Client();
 
-//Sets the bots prefix can be anything you like
+//Sets the bots prefix can be anything you like.
 const prefix = "!";
 
 //Insert you API Key to login the bot to discord 
