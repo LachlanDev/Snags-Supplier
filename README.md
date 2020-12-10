@@ -13,7 +13,6 @@
 
 # Setup / Requirements
 * [Node.JS](https://nodejs.org/en/)
-* Java
 * Text Editor of your choice
 * Goto [Discord Developer Portal](https://discord.com/developers/applications) and create your first application, click on BOT and create.
 * Download Snags Supplier GitHub Repo 
