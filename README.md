@@ -27,7 +27,7 @@ By using this source code you are agreeing to:
 If you have any issues or questions please feel free to message me on Discord Papa.Snags#1555 I am happy to help.
 
 # About
-__Snags Supplier was created by Papa.Snag#1555__
+__Snags Supplier was created by PapaSnags#8014__
 * [Website](https://papa-snags.com)
 * [Twitter](https://twitter.com/PapaSnags)
 * [Join my discord server](https://discord.gg/w7B5nKB)
