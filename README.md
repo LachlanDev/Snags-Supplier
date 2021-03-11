@@ -24,12 +24,12 @@ By using this source code you are agreeing to:
 * When posting your BOT / project to a website it must include a link to either our souce code or a credit
 
 ## Extra
-If you have any issues or questions please feel free to message me on Discord Papa.Snags#1555 I am happy to help.
+If you have any issues or questions please feel free to message me on Discord LachlanDev#8014 I am happy to help.
 
 # About
-__Snags Supplier was created by PapaSnags#8014__
-* [Website](https://papa-snags.com)
-* [Twitter](https://twitter.com/PapaSnags)
+__Snags Supplier was created by LachlanDev#8014__
+* [Website](https://lachlan-dev.com)
+* [Twitter](https://twitter.com/LachlanDev)
 * [Join my discord server](https://discord.gg/w7B5nKB)
 
 ## Contributing
