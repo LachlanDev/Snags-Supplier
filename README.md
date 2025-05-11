@@ -28,9 +28,8 @@ If you have any issues or questions please feel free to message me on Discord La
 
 # About
 __Snags Supplier was created by LachlanDev#8014__
-* [Website](https://lachlan-dev.com)
 * [Twitter](https://twitter.com/LachlanDev)
-* [Join my discord server](https://discord.gg/w7B5nKB)
+* [Join my discord server](https://discord.gg/TkZzRBaxP9)
 
 ## Contributing
 Please open an pr first to discuss what you would like to change.
